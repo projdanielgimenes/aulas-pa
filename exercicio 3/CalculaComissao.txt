@@ -1,0 +1,14 @@
+Algoritmo CalculaComisssao
+       Entre com um valor para preco_unitario
+       Entre com um valor para quantidade_vendida
+
+       Faca preco_unitario*quantidade_vendida e atribua o valor a total 
+       Faca total*0,05 e atribua o valo a comissao 
+       Mostre o total e a comissao
+
+FimAlgoritimo
+
+Teste de Mesa
+
+preco_unitario          quantidade_vendida        total   comissao
+     2.5                         200               500      25,00
